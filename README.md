@@ -61,10 +61,10 @@ ________________________________________________________________________________
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/kunj2803/kunjdesai-portfolio.git
+git clone https://github.com/Yashvant203/Yashvant-Portfolio.git
 
 # 2️⃣ Navigate to project directory
-cd kunjdesai-portfolio
+cd Yashvant-portfolio
 
 # 3️⃣ Install dependencies
 npm install
@@ -105,3 +105,4 @@ ________________________________________________________________________________
 
 If you find this portfolio useful or inspiring, feel free to star ⭐ the repo.
 It really helps!
+
