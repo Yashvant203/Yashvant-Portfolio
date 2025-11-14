@@ -82,10 +82,11 @@ ________________________________________________________________________________
 This site is deployed on Netlify, which automatically rebuilds and updates whenever you push changes.
 
 To redeploy:
-
+```bash
 git add .
 git commit -m "update"
 git push origin main
+```
 
 
 Netlify handles everything else.
@@ -105,4 +106,5 @@ ________________________________________________________________________________
 
 If you find this portfolio useful or inspiring, feel free to star ⭐ the repo.
 It really helps!
+
 
