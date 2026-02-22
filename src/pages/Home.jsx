@@ -4,11 +4,11 @@ import "../CSS/Home.css"
 import '../index.css' 
 
 
-// 🖼️ Import Assets
-import photo from '../../public/image.jpg'
-import githubLogo from '../../public/github.png'
-import linkedinLogo from '../../public/linkedin.png'
-import gmailLogo from '../../public/gmail.png'
+// 🖼️ Public Assets (served from root, no import needed)
+const photo = '/image.jpg'
+const githubLogo = '/github.png'
+const linkedinLogo = '/linkedin.png'
+const gmailLogo = '/gmail.png'
 
 export default function Home() {
   const professions = [
@@ -55,7 +55,7 @@ export default function Home() {
           >
             <motion.img
               src={photo}
-              alt="Kunj Desai"
+              alt="Yashvant Makwana"
               initial={{ scale: 0.8, opacity: 0 }}
               animate={{ scale: 1, opacity: 1 }}
               transition={{ duration: 1 }}

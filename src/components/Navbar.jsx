@@ -111,7 +111,7 @@ export default function Navbar() {
                   }}
                 >
                   <motion.span
-                    animate={{ color: isActive ? "var(--accent)" : "white" }}
+                    animate={{ color: isActive ? "var(--accent)" : "#ffffff" }}
                     transition={{ duration: 0.3 }}
                   >
                     {l.label}

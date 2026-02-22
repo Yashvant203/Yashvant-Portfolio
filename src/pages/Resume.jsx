@@ -148,15 +148,14 @@ export default function Resume() {
           <div style={{ display: "flex", flexWrap: "wrap", gap: 10 }}>
             {[
               "Python",
-              "C",
-              "C++",
-              "Java",
+              "JavaScript",
+              "HTML",
+              "CSS",
               "React",
               "MySQL",
               "MongoDB",
               "UI/UX Design",
               "ASP.NET",
-              "Android Development",
               "Problem Solving",
               "Teamwork",
               "Adaptability",
