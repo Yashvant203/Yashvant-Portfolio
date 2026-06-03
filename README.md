@@ -5,7 +5,6 @@ This website is a simple, fast, and clean way to show who I am, what I’ve buil
 
 🌐 Live Site: [[Yashvant-Portfolio]](https://yashvant-makwana.netlify.app/)
 
-📦 GitHub Repo: [[Yashvant203/Yashvant-Portfolio]](https://github.com/Yashvant203/Yashvant-Portfolio)
 
 __________________________________________________________________________________________________________________________________________________________
 
